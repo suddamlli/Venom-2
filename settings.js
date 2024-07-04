@@ -4,14 +4,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
+global.ownernomer ="94766687628"
+global.ownername = "Annsun-y"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
+global.ownernumber = '94766687628,2349066528353,254782572110'  //creator number
+global.ownername = 'Annsun-y' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
@@ -23,7 +23,7 @@ global.themeemoji = '🪀'
 global.wm = "David Cyril Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z'
+global.link = 'https://chat.whatsapp.com/E9bEiD5Ue3t41w8oNYeE8s'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -33,7 +33,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
